@@ -1,3 +1,6 @@
+# THIS IS A REPOSITORY THAT IS MEANT FOR BEGINNERS TO GITHUB! FORK THIS REPO AND ADD ANY EXTRA DETAILS AND THEN SUBMIT IT AS A PULL REQUEST
+Hello this is an ecample of added details. 
+
 # can-i-have-a-free-tshirt
 [Digital Ocean's Hacktoberfest T-Shirt Giveaway](https://hacktoberfest.digitalocean.com/)  
 
